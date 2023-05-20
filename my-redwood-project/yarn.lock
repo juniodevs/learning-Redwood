@@ -20578,7 +20578,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-hot-toast@npm:2.4.1":
+"react-hot-toast@npm:2.4.1, react-hot-toast@npm:^2.4.1":
   version: 2.4.1
   resolution: "react-hot-toast@npm:2.4.1"
   dependencies:
@@ -21388,6 +21388,7 @@ __metadata:
     "@emotion/styled": ^11.11.0
     "@mui/material": ^5.13.1
     "@redwoodjs/core": 5.2.1
+    react-hot-toast: ^2.4.1
   languageName: unknown
   linkType: soft
 
